@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/group_chat"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_new_chat"
+            android:title="New Chat"
+            android:icon="@drawable/ic_new_chat"
+            app:showAsAction="ifRoom"
+            android:orderInCategory="10"/>
+
+        <item
+            android:id="@+id/action_history"
+            android:title="History"
+            android:icon="@drawable/ic_history"
+            app:showAsAction="ifRoom"
+            android:orderInCategory="20"/>
+    </group>
+
+    <group android:id="@+id/group_tools"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_model"
+            android:title="Model"
+            android:icon="@drawable/ic_model"
+            app:showAsAction="never"
+            android:orderInCategory="30"/>
+
+        <item
+            android:id="@+id/action_health"
+            android:title="Server Health"
+            android:icon="@drawable/ic_health"
+            app:showAsAction="never"
+            android:orderInCategory="40"/>
+
+        <item
+            android:id="@+id/action_tokens"
+            android:title="Token Counter"
+            android:icon="@drawable/ic_tokens"
+            app:showAsAction="never"
+            android:orderInCategory="50"/>
+    </group>
+
+    <group android:id="@+id/group_manage"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_delete_chat"
+            android:title="Delete Chat"
+            android:icon="@drawable/ic_delete"
+            app:showAsAction="never"
+            android:orderInCategory="60"/>
+
+        <item
+            android:id="@+id/action_settings"
+            android:title="Settings"
+            android:icon="@drawable/ic_settings"
+            app:showAsAction="never"
+            android:orderInCategory="70"/>
+    </group>
+
+</menu>
