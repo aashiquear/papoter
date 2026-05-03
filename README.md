@@ -164,11 +164,11 @@ Papoter/
 
 ## Screenshots
 
-*(Add screenshots here once you run the app)*
 
-| Chat | History | Settings |
-|------|---------|----------|
-| ![Chat]() | ![History]() | ![Settings]() |
+| Chat | History | Settings | Token Counter |
+|------|---------|----------|---------------|
+| <img width="270" height="585" alt="Screenshot_20260502_213601_Papoter" src="https://github.com/user-attachments/assets/076f1952-6e56-4d6c-8620-f88832a91dc0" /> | <img width="270" height="585" alt="Screenshot_20260502_213632_Papoter" src="https://github.com/user-attachments/assets/94dd3341-6657-4c73-837b-22af49fe76d6" /> | <img width="270" height="585" alt="Screenshot_20260502_213710_Papoter" src="https://github.com/user-attachments/assets/72b72808-6e44-4e17-b1df-e9d82e29793f" /> | <img width="270" height="585" alt="Screenshot_20260502_213733_Papoter" src="https://github.com/user-attachments/assets/4ac5fbae-4bcd-4931-bbf3-537082f89120" />
+
 
 ---
 
